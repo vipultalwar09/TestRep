@@ -24,6 +24,8 @@ public class SummaryPage extends TestBase {
 		//JavascriptExecutor js3 = (JavascriptExecutor) driver;
 		//js3.executeScript("arguments[0].click();", ProceedToCheckOut);
 		ProceedToCheckOut.click();
+		
+		
 	
 
 }
