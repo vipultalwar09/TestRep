@@ -1,0 +1,37 @@
+Hi Siddhi,
+PFB some Review Pointers for H2 Review Cycle (1st May --> Current Timeline) 
+ 
+1.    Bugs Reported by me till now (This includes Bugs for both RDH and RDM) - 55 Bugs (Many Bugs were Clubbed together into Single Units to Speed up the Process)
+•	High priority - 17
+•	Medium Priority - 36
+•	Low Priority - 2
+ 
+2.     RDH (R6.0 and R6.1) & RDM(R11.3) Releases 
+•	Delivered Major RDH R6.0 and Minor R6.1 Releases on Time which includes major Upgrades and Features.
+•	En-Route Delivering Minor RDM R11.3 and R11.0.1 HotFix Releases, which includes Minor Upgrades and Important Bug Fixes.
+•	Working towards Stable and Timely delivery of New RDM R12 (Zaidyn) Release
+•	Have stretched and made myself available whenever required (even late night hours). Incorporated many non-planned tasks and completed them on priority throughout the release.
+•	Suggested necessary fixes and enhancements wherever possible to serve an easy to use application to clients. 
+•	Focused on In-Depth Documentation of Bugs (For Devs) and Test Results (For Future References) and Efforts to Inculcate and Adhere to New Agile methodologies.
+      Major Stories Tested - 
+                  1. MDM - Homepage, All Records, Profile, Advanced Search and MDM Enhancement Stories. (RDH R6 and R6.1) and Show Lineage, Profile Stories (RDM R12.0)
+                  2. Driver Data - DD HomePage, DD Details Page , Data Upload via S3 and RedShift. (RDM R12.0)                          
+                  3. BRM - BRM Rule Details Page , BRM Rule Creation Page, BRM Test Rule. (RDM R12.0)
+       4. BRE - RestAPI Enhancements , Bug Fixes (RDM 11.3)
+ 
+3.	New Joiners Ramp-Up and Mentorship
+•	Worked on Planning and Executing Ramp-Up Plan and KT Sessions for newly Joined Members in QA Team.
+•	RDH Level KT Sessions (MDM,BRE and DD) for QA Team for better understanding and execution
+ 
+4.	  Learnings
+•	Subscribed to and Completed a Course on Udemy via Degreed Application (Course Completion Certificate Attached)
+Course Details -> Rest API Testing (Automation) from Scratch-Rest Assured Java
+ 
+5.	  RDM BackEnd Automation
+•	Started actively contributing towards RDM BackEnd Automation 
+
+
+
+
+
+
